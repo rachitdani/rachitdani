@@ -18,9 +18,9 @@
   
   <h3> GitHub Stats 	🔥🔥 : </h3>  
   <p align="center"> 
-  <img align = "center"  width="320" height="320" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitdani&theme=radical"/>
-  <img  align = "left" width="320" height="330" src="https://github-readme-stats.vercel.app/api?username=rachitdani&show_icons=true&theme=radical"/>
-  <img align = "right" width="320" height="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachitdani&layout=compact"/> 
+  <img align = "center"  width="250" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitdani&theme=radical"/>
+  <img  align = "left" width="250" height="250" src="https://github-readme-stats.vercel.app/api?username=rachitdani&show_icons=true&theme=radical"/>
+  <img align = "right" width="250" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachitdani&layout=compact"/> 
   </p>
 
 
