@@ -7,8 +7,8 @@
  <h3>Get to know me :dart: </h3>
 
 - BE Computer Science 2023 Graduate
-- Providing Data-driven insights
-- Developing end to end Machine and Deep Learning projects 
+- Providing Data-driven insights from analyzing data
+- Developing end to end Machine and Deep Learning projects
 - Eager to work on open source projects and contributions
 - Learning and Working on NLP and Computer Vision
 - Reach me at : rachitdani2014@gmail.com 
