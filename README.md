@@ -14,12 +14,12 @@
 
 <h3> Connect with Me :mag: </h3> 
 
-<a href="https://www.linkedin.com/in/rachitdani/" target="_blank"> <img height="40" hspace="3" src="icons/c1.png"/> </a>
-<a href="mailto:rachitdani2014@gmail.com" target="_blank"> <img height="40" width="100" hspace="3" src="icons/c2.png"/> </a>
-<a href="https://twitter.com/rachitdanii" target="_blank"> <img height="40" width="105" hspace="3" src="icons/c3.webp"/> </a>
-<a href="https://www.kaggle.com/rachitdanii" target="_blank"> <img height="40" hspace="3" src="icons/c4.png"/> </a>
-<a href="https://huggingface.co/rachitdani" target="_blank"> <img height="40" hspace="3" src="icons/c5.png"/> </a>
-<a href="https://medium.com/@rachitdani2014" target="_blank"> <img height="40" hspace="3"  src="icons/c6.png"/> </a>
+<a href="https://www.linkedin.com/in/rachitdani/" target="_blank"> <img height="40"  src="icons/c1.png"/></a>
+<a href="mailto:rachitdani2014@gmail.com" target="_blank"> <img height="40" src="icons/c2.png"/></a>
+<a href="https://twitter.com/rachitdanii" target="_blank"> <img height="40" src="icons/c3.webp"/></a>
+<a href="https://www.kaggle.com/rachitdanii" target="_blank"> <img height="40" src="icons/c4.png"/></a>
+<a href="https://huggingface.co/rachitdani" target="_blank"> <img height="40" src="icons/c5.png"/></a>
+<a href="https://medium.com/@rachitdani2014" target="_blank"> <img height="40" src="icons/c6.png"/></a>
 
 ---
 
