@@ -38,7 +38,7 @@
 <img height="45" hspace="1" src="icons/t21.jpeg"/><br>
 <img height="45" width="45" hspace="1" src="icons/t22.jpeg"/>
 <img height="45" hspace="1" src="icons/t20.jpeg"/>
-<img height="45" width="45" hspace="1" src="icons/t23.png"/>
+<img height="45" hspace="1" src="icons/t23.png"/>
 <img height="45" hspace="3" src="icons/t11.png"/>
 <img height="45" hspace="1" src="icons/t12.png"/>
 <img height="45" hspace="1" src="icons/t13.png"/>
