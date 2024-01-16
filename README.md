@@ -7,8 +7,8 @@
  <h3>Get to know me :dart: </h3>
 
 - Providing Data-driven insights from analyzing data
-- Check out my projects here :point_right: 
-- Take a quick check at my <a href = "https://drive.google.com/file/d/1N2HxDYG8du81DN1z4a-8he-RKkJRCV8X/view?usp=sharing">Resume</a>
+- Here are some of my developed <a href = "https://github.com/rachitdani/Projects.git">Projects</a> 👈👈
+- Take a quick peek at my <a href = "https://drive.google.com/file/d/1N2HxDYG8du81DN1z4a-8he-RKkJRCV8X/view?usp=sharing">Resume</a> 👈👈
 
 --- 
 
