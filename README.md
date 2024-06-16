@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there 👋  This is <a href="https://github.com/rachitdani">Rachit</a> here :exclamation:  </h1>
-<h2 align="center"> Data Analyst & Data Scientist :computer: 💹 </h2>
+<h2 align="center"> Data Analyst & Scientist :computer: 💹 </h2>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=rachitdani-15&label=PROFILE+VIEWS&color=ff3d67"/> </p>
 
 ---
@@ -8,7 +8,7 @@
 
 - Providing Data-driven insights from analyzing data
 - Here are some of my developed <a href = "https://github.com/rachitdani/Projects.git">Projects</a> 👈👈
-- Take a quick peek at my <a href = "https://drive.google.com/file/d/1N2HxDYG8du81DN1z4a-8he-RKkJRCV8X/view?usp=sharing">Resume</a> 👈👈
+- Take a quick peek at my <a href = "https://drive.google.com/file/d/1WdjUu7FDEPmOSWuWav1uQLxA7vpd6sfA/view?usp=sharing">Resume</a> 👈👈
 
 --- 
 
